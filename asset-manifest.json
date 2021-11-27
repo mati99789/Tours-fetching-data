@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tours-fetching-data/static/css/main.bd978ca3.chunk.css",
-    "main.js": "/Tours-fetching-data/static/js/main.d446e6c4.chunk.js",
-    "main.js.map": "/Tours-fetching-data/static/js/main.d446e6c4.chunk.js.map",
+    "main.js": "/Tours-fetching-data/static/js/main.e1b231e9.chunk.js",
+    "main.js.map": "/Tours-fetching-data/static/js/main.e1b231e9.chunk.js.map",
     "runtime-main.js": "/Tours-fetching-data/static/js/runtime-main.ef07fe0f.js",
     "runtime-main.js.map": "/Tours-fetching-data/static/js/runtime-main.ef07fe0f.js.map",
     "static/js/2.27e2d682.chunk.js": "/Tours-fetching-data/static/js/2.27e2d682.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ef07fe0f.js",
     "static/js/2.27e2d682.chunk.js",
     "static/css/main.bd978ca3.chunk.css",
-    "static/js/main.d446e6c4.chunk.js"
+    "static/js/main.e1b231e9.chunk.js"
   ]
 }
